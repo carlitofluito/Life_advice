@@ -1,0 +1,7 @@
+book_filename: "Life_Advice"
+chapter_name: ""
+repo: https://github.com/carlitofluito/life_advice
+output_dir: docs
+rmd_files: ["index.Rmd", "01.Rmd", "references.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes

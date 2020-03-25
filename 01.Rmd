@@ -1,0 +1,254 @@
+## Introduction. I am not your grandma but...
+
+In a similar way as David Cain, writer of [*Raptitude*](http://www.raptitude.com/), and its [post on unsolicited life advice](https://www.raptitude.com/2015/02/67-short-pieces-of-advice-you-didnt-ask-for/), here is a quick list of my habits and practices for a good life.^[If you want to know more, I have a blog where I post different types of things from time to time. You may find something useful there as well. [Carlito Fluito Website](www.carlitofluitoideas.com). One of my current life goals is to become a full-time artist, including writing, and posting regularly. Good vibes and support is always welcomed.] The pieces of advice evolve from more to less work related.^[This is the classical "*I am not a doctor*" message. Use your common sense, take all this practices as a personal exploration sort of game, and never put your well-being under extreme situations or circumstances. If you are like me, you probably don’t care and you’ll end up doing what you want, but at least, I will sleep better knowing that I wrote this small warning.]
+
+## Be social
+
+I decided to place this one the first because one of the main reasons I am leaving this country and this job is the lack of love. Love manifested as positive and meaningful social relationships. Doing a Ph.D. is an already quite isolating job, and in a country like Belgium, or a city like Louvain-La-Neuve, you may find difficulties to find people you connect with. Social isolation and loneliness is an epidemic in individualistic societies. The institutionalized social services take care of those in risk, but the lack of an organic and natural social network can be hugely damaging for individuals and society as a whole. I don’t blame individuals; I think the whole problem is structural. Nevertheless, this is probably not the text to write about it. The thing is, you have a opportunities of socializing every day. Sometimes you will not feel like doing it, but try anyways. 
+
+### Make questions to other people
+
+I hope this guide contains some answers to your potential questions. However, feel free of getting to know about your colleagues. Don’t only ask job-related things, you can slightly move to more personal topics. As an ADHD Spaniard, some people find me too straight-forward or weird. Don’t worry much about what other people think, I probably said and did something more stupid than what you may say or do. 
+
+### Have coffees, lunch or dinner with your advisor and colleagues
+
+Try to make your breaks as social as possible. If there are people having lunch in the kitchen, pop up. If you have extra-coffee, or extra-tea, offer them a cup. Be proactive and suggest going for lunch or dinner outside the building, and if possible, outside the city. Don’t underestimate the power of social ties. 
+
+## Workflow
+
+Working is one of the things more difficult to escape in this civilization. I am working on it. For the moment, at some point you will have to work. Thus, try to make your life easy, and use the resources of the university. 
+
+### Drink lots of water
+
+Classic one, but extremely important. One of the things I do when I arrive to my office is filling three bottles of water. Then I struggle opening the doors in the way back, but I like the game as well. Other people say that it is better to have just a glass to force yourself to take breaks often and move your body. However, my chronic procrastination tendencies have shown me that if I start doing something, it is better not to get distracted. 
+
+### Chronotypes
+
+Learn about your brain. This civilization is designed by and for average boring sapiens. I am a weird one. [Daniel Pink](https://www.danpink.com/) wrote [*When: The scientific secrets of perfect timing.*](https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0735210624) [@pink2019scientific] You can look like a smart psychologist if you mention some of the research presented on the book on your social gatherings.
+
+However, the real utility may lay in understanding why I am unable to do anything in the morning, why Wednesdays are for me a waste of time, and when is best for me to exercise (all the time, actually). Thus, there will be moments and days for writing, others for reading, and others for walking around the lake. Learn about which one is which for you, and you may save hours of struggling in front of your laptop.
+
+####  Night owls
+
+If you are as lucky as me, you function better one evenings and night. A lifestyle that is designed for people that wake up refreshed at 7am, can be a torture for those that go to sleep at 4am, fully satisfied for working uninterruptedly for 5 hours straight. Professors at psychology faculties should be aware of these realities. Sometimes, they may not. Anyways, try to negotiate and argue your work schedule. You can get a pass card to enter and leaving the building after 20pm and find people that socialize in the mornings. It can take some time, but it is doable. If not, escape the system.
+
+### Binaural Pomodoro
+
+This one is original^[Avoid plagiarism and reference the source.]. Many people are familiar with the Pomodoro technique (work 25 min, rest 5). In my case, since I have difficulties to start working, I usually cheat my brain making it belief that I will take the break when I won’t. However, I like to keep track of time and know how much time I have spent working and how productive I have been.
+
+Since silence can be a torture and music too distracting, I have found a middle point on binaural beats. You can google it and find out the not-scientifically proven wonders of these sounds. In my case, I like ["*Jody Hatton's Videos*"](https://www.youtube.com/channel/UC6RzukLXWGBx6dOGqzaeK5w) in YouTube. I play the 25 Minute POWER NAP, and I use it as a Pomodoro timer. In a productive way, I can play it on repeat two or three times, getting a full hour and a half of productive and focused work. 
+
+There is also a track called ["*90 minutes of focused studying*"](https://www.youtube.com/watch?v=eqKQACO4HAk), that you may like. The guy has videos explaining how to use the beats, and its potential benefits, depending on the wave and sounds. Explore his channel. 
+
+### Deep work
+
+This is the Promised Land that I have seen in distant mirages when I am in the desert of continuous social media distractions. You can check [Cal Newport’s book](https://www.calnewport.com/books/deep-work/)[@newport2016deep] for more information. In my case, I work best at nights without distraction and with my phone purposely left at home. I have tried many systems for blocking websites and apps, but I have ended up finding a way around all of them. Anyway, start with the basics, do yourself a favor, and set Airplane or Silent mode in your phone when you have to work. 
+
+### Set personal deadlines before the Deadline
+
+I am a professional procrastinator, and my brain lacks the necessary sensitivity to dopamine and norepinephrine to feel any type of fear or anxiety when deadlines are approaching. I have been able to prepare presentations of conferences in the hotel room. I have spent whole nights self-punishing my ridiculous distractions because I just had 2 hours left, and I the thing wasn't finish. So, believe me on this. Set your own personal deadlines at least 3 or 4 days in advance of the actual deadline. Shit happens, and shit will happen. This universe has a potential of infinite last-minute unpredictable situations that can screw you up. Be serious with yourself and try to hit your own deadline. In the worst of the cases, you still will have 72 hours to go. 
+
+### Get an extra monitor
+
+If you have a small laptop and you are using only your screen, you are making your life difficult. Ask for an extra monitor to the IT responsible. You will perform many tasks way more smoothly. Browsing the internet and saving literature, working on several files simultaneously, fighting with your code and deciphering the solution offered in Stack Overflow. It will save the functional life of your eyes, and column.
+
+### Get a mouse if you need to
+
+For an average research job, you may not need one. If you learn a few shortcuts and have a nice touchpad, it should be fine. However, if you feel that you need one, ask the IT responsible.
+
+## Take breaks
+
+Unless you squeeze the precarious moments of focus as much as I do, your body and mind will thank you some rest.  As a general rule, do the opposite of what you have been doing. If your work consists on being seated on a chair, alone, in a closed space, staring at a screen shooting photos straight to your pineal gland; you may need some movement, socializing, fresh air in an open space, and some sunlight. 
+
+### Interacting with other living creatures
+
+As I said before, social relationships are much needed. Placing a living being in your surroundings, like plants in your office, although very beneficial, can be a bit boring. Thus, try to find other living forms with whom you can interact and communicate with. People will shoot a combination of adrenaline, dopamine, serotonin, and maybe oxytocin in your nervous system that will wake you up, motivate you, make you feel good and happy, and maybe make you prone of developing some long lasting bonds. The world is full of free walking pharmacies. Take advantage of it.
+
+### Exercise, stretch, and move
+
+Similarly, there is tons of books, papers, and information about how our body, as animal’s body, is designed to get its daily dose of movement. In a desk job, it is likely our lives are movement deprived. I always lack the constancy and will-power needed to do 30 squats, or 15 push ups every 25 minutes. However, I know people that actually do it. Give it a try, your body and brain will thank it. 
+
+### Meditate
+
+There are tons of literature about the somehow scientifically proven benefits of meditate. My advice is to do a one single case qualitative introspective experiment with yourself and give it a try. [Kabat-Zinn](https://en.wikipedia.org/wiki/Jon_Kabat-Zinn), [David Cain](https://www.raptitude.com/), and even [Carlito Fluito](https://www.carlitofluitoideas.com/meditation-app/)^[Yes, self-promotion.] are good starting points. Sitting outside, taking some fresh air, and focusing for 20 minutes on your breath can reboot your brain, and make you successfully tackle that task you have been struggling for the last 3 hours. 
+
+### Power Naps
+
+No one has ever done it. Me neither. However, if you want to be the first person that tries it, you can lock your office from inside, set an alarm or putting a binaural beat sounds, and lie flat on the floor of your office. It is worthwhile, since you are probably sleep deprived, and your brain is not working properly. You can refine the technique as much as you feel like. Maybe, you can put on the hood of your feather coat, lay down a chair, place some journals below the backrest to get the desired height for a perfect pillow, lie on your back, and put your hand in the pockets. Never tried, though.
+
+## Life habits
+
+In this last section I am going to proselytize a bit. I have been described as "*singular*", "*uncommon*", and "*atypical*" by my advisor^[I even have a [documentary in YouTube about my life in Brussels.](https://www.youtube.com/watch?v=4lvSzHfc8FU)]. However, I still stand for continuing with the researcher project of myself (my neurological, physiological, psychological, body, and spiritual functioning). Whether your life is sweet or shit, you will have to share that experience with yourself. Therefore, investing some time in figuring out who the hell are you travelling with in this life journey can be of immeasurable utility. Make your personal self-knowledge a life habit. ^[I plan to post individual entries in my blog about some of these topics. Thus, take a look if you are specially interested in any of these and want some detailed information. [Carlito Fluito ideas](www.carlitofluitoideas.com). If you don’t find them written yet, I am still postponing the task. It happens. Thanks for your patience.]
+
+### Brain caring
+
+I am not a neurotypical person. Causing the mockery of my unsurprised social network, I have figured out about my ADHD brain at 27. Thus, you may find excessive some of the following advices. However, considering the pseudo-ADHD civilization of constant interruptions and instant messaging that we are building, you may benefit from those of us that have a clearer phenotype. 
+
+####  Focus on growth: Update and improve attitude
+
+This can be a bit too much self-help, self-improvement advice but it certainly works. Try to keep yourself on the line between satisfaction of what you have and dissatisfaction of what you are missing. This way, you will remain growing and growing. Challenge your beliefs from time to time, keep on learning new things, and try different strategies and techniques to see if you can improve different aspects of your life. Nevertheless, don’t go too individualistic, keep your social connections tight and supportive. Growing together feels better than growing alone.
+
+####  Develop habits and routines
+
+It can be difficult when you lack social support and people to do your routines with. But if you force yourself long enough, you may end up being addicted to meditate, exercise, and having cold showers first thing in the morning. Thus, the day you skip your routine, your being will feel it and give you some gentle reminders throughout the day. Find a system for tracking them, so you can fight self-delusion with the power of a Yes or No sign throughout the month. 
+
+####  Become minimalist
+
+As ADHD, I usually struggle a lot with too many items in my working memory. One of the best ways I have found to move more smoothly through life is reducing as much as possible the unnecessary objects in my life. The book Essentialism can help you become minimalist further than material possession. In any case, I advise you to start with the kitchen. If you are living alone, or a shared flat, having one glass, one plate, one set of cutleries, one pan, and one casserole, will significantly reduce the amount of time that you spend doing dishes. Extra aspects are that you will automatically become more environmentally friendly, your finances may be benefited, and you’ll save time for meaningful things, and you’ll grow more independent of material wealth, facilitating your escape from the system. 
+
+####  Phone fasting
+
+My altered dopaminergic system has a love and hate relationship with the smartphone. It is incredibly useful to read books, listen to music, or writing down the to-do list for the day while I commute. However, it is deeply disturbing for my attention check repeatedly Facebook, Instagram, and Whats App to be updated about my last social interactions. Therefore, I developed a routine of not checking social media before 12 am. Whatever the message I had received, the sender could wait some hours for my answer. When people seriously want something, they will call or SMS you.  Give it a try. In my case, the effects were clear and powerful. I was able to keep my dopamine levels under control, sustain my attention for longer and struggle less with distractions. 
+
+####  Sleep and disconnect
+
+I never had problem sleeping, but many people do. Thus, if that is your situation, you probably know how important, regenerative and healing sleeping is for your functioning. There is ton of information about it, on the internet. I am not an expert, but for sure that disconnect from devices, drinking an herbal infusion, and meditate will help. 
+
+### Body caring
+
+
+The body is that thing that move our consciousness around. Although, I could go further and say that the body is an extension of our consciousness. Besides, it is the way we interact with the physical realm of this reality. Therefore, you have substantial reasons to take care of it. In my personal case, the whole thing gets even more meaningful since I want to develop a career as dancer and performer. Thus, my main tool is my body, and I want to make it function as much as possible. 
+
+####  Shower with cold water
+
+It is a pain on the ass. It is easier to make it in the summer, and again, it seems that people that feel lonelier spends longer time under hot water than those that feel socially connected. You can research a bit on the internet, check the Wim Hoff Method, and start progressively. You will realize that cold exposure will help you remain healthy, avoid catching colds, feel warmer during the day, improve your skin in case of dermatitis, give you a boost of energy, and cool down your emotions. Try to develop the habit, it is really worthwhile.  
+####  Exercise, stretch, move, dance
+
+You know this already. The body is designed by evolution to move every day. We are animals that were raised on the wilderness. These days, we are living in cages we call rooms and offices. However, we need to move, the whole system works better when you do. A little is better than nothing. So, don’t do like me, and think that for only moving 5 minutes you are not making any change. Taking the stairs is more movement compared with the elevator. Start easy, go progressive, build the habit solidly, and keep on challenging yourself. 
+
+####  Squat shitting
+
+In the developing parts of the world, this is the rule. It is us, WEIRD’s that want to do everything against our nature. The body is designed to evacuate in a squat position. It is what it is. I do it since 2016. It is automatic, it doesn't cause me any extra effort, and when I sit on the toilet, I feel weird. It is more difficult. I have a video on YouTube explaining the perfect technique. Go check it out. Your vowels will thank you the change. 
+
+####  Sleep on the floor/hard surface
+
+This is the most extreme. I have been trying for some time and the body ends up getting use to it. In my room, I have carpet floor. Thus, you may want to start with a futon, a tatami, or lying over a duvet. Sometimes I sleep on the bed as well. However, I have noticed that with the right height for the pillow, I end up feeling better in the morning. I recover much faster, and it also allows me to sleep pretty much wherever when I am travelling. Give it a chance.
+
+**Pro tip**: Usually, for males, the shoulder size is bigger than for females. And for females, the waist is wider. Thus, play a bit with the pillows if you sleep on the side. If you are a man, you may need more pillows to avoid your head hanging, and if you are a woman, you may need some pillow at the belly level to avoid the waist bones sticking out.
+
+### Dietary habits
+
+
+I am a bit extreme with the following ones. I believe that we are what we eat. What you put in your body becomes your cells. Also, I think that diet is one of the unavoidable environmental impact that we all humans have. Therefore, I try to be conscious about my decisions, where do the food I consume come from, what is the impact, and how it is going to affect my body. However, when lack of social relationships hits, then I fall into bad habits like sugar, because, you know, we all need to get serotonin somewhere.
+
+####  Go vegan, raw vegan or frugivore
+
+If you like being alive, animals like it too. It seems that the pulse of survival and freedom in inherent to all lives form. In case you don’t empathize enough to stop drinking milk, you can start with stopping eating meat from mammals. Just take it step by step and making all the way down the animal kingdom. Going vegan is just showing care and respect for other beings. It is that simple. Take it is as an improvement path. It is not extremist or radical, quite the opposite, systematic torturing and slaughtering of enslaved species seems more extreme and radical from my point of view. It is not about moral hierarchies, it is about doing what you feel and know as right. Simple. 
+
+Extra aspects of going vegan, it is more environmentally friendly, shopping will be easier and cheaper, your body functioning will improve. If you go a step further and become raw vegan, you can save tons of time on cooking. If you go a step further and become frugivore (with some nuts and green leaves), you can change the whole functioning of your physiology and body, save tons of time and money shopping, and reduce your environmental impact at the lowest. Read 80/10/10 diet to get an idea of the ideal to reach. After that book, at least, you will go vegetarian.
+
+####  Avoid processed foods and refined sugars
+
+If you go vegan or beyond, this is extremely obvious. However, if you know me, you know that my impulsivity can manifest in refined sugar and patisserie cravings (which may not be even be vegetarian). Be gentle and avoid self-punishment, but always strive towards a better version of yourself. Treat yourself properly and don’t contaminate your body. If you experience cravings, those are probably emotional needs that go unfulfilled. Invest in your social network. 
+
+####  Food fasting
+
+You may have heard about intermittent fasting. Give it a chance. In my case, it helps me to keep my dopamine levels balanced, especially in the morning. Read a bit and try it out. Start with 12 hours, postponing breakfast; and aim to a sustained 16 or 18 hours (or beyond if you feel like). Fasting is the most scientifically proven strategy to lengthen your life. If you like your life, you may want to experience some hunger from time to time.
+
+####  Drop caffeine
+
+Substitute it with water, tea, or herbal infusions. You can still use it from time to time as a mild psychedelic altering consciousness substance but try to keep it under control. If you are taking more than two coffees per day, you probably need to chill down. 
+
+####  Try teeth cleaning twig
+
+As with (raw) vegan and frugivore diet, seems that hunter-gathered uncivilized life-style is the one our bodies and brains were designed for. Thus, play with primate cleaning practices as cleaning your teeth with parts of trees. You will help the environment by dropping plastic toothbrushes and dentifrice packages. 
+
+####  Drop plastic and extra packaging
+
+In accordance with the minimalist and pro-environmental advice. It is likely that you don’t need much of the plastic you consume, and if you accumulate it out of guilt, you may end up with half house full of plastic bags, small packages, and so on. I have been there. I know it is difficult but just try to be conscious about it. The planet is already quite full of plastic. Also, you can start a citizenship movement to make a campaign for pressuring new policies. That would help for sure. 
+
+### Soul caring
+
+I am aiming to become a spiritual psychologist, whatever that means and no matter if that exists or not. Curiously, it is somehow reiterative, since the whole discipline is called psychology (psycho – soul, logos – knowledge). Thus, a soul or spiritual psychologist is someone that specializes on the study of the soul’s soul. Anyway, I don’t think all psycho-socio-cultural, physio-bio-neurological processes concerning human spirituality (whatever that means) are not very well researched. There is a big debate about what is and what is not spiritual, but this is not the place for these discussions. I got specialized in positive psychology, psychology of religion, moral psychology, and environmental psychology, so let’s imagine that a inputs from these disciplines can be easily related with human spirituality.
+
+####  Explore your consciousness
+
+Meditation is the key tool for observing the workings and functioning of your own mind. From the most basic exercise of attention to the breathing, and observing your body, to those more esoteric one concerning energies, and visualizations, feel free of developing alternative mind states. Scientific or not, nobody is being hurt because you try. If it works for you, shouldn't you use it because there is no scientific evidence? When we behave as individuals we don’t have to be academics, we can also enjoy our beliefs without knowing the working mechanism. 
+
+There is also a wide list of other practices you can do to explore your consciousness. Some of them are through sounds, like mantras, ohms and gong baths. Some are through your body, like ecstatic dance or physical stimulation. Some are through the environment, by feelings of awe in the nature. Some are with other people, by making love and having orgasms. Some are with external substances, like trying psychedelics. Don’t think that your daily state of consciousness, the way you often perceive reality is the only way that exists, or it is the right, proper way. After all, in our civilization it is common to drink coffee in the morning to feel more alert, alcohol in the evening to socialize, and watching a film to relax. So, why shouldn't you go a step forward sand find out what is the best practice for your type of brain to set up your consciousness in the desired state for a given situation? My little warning is that you explore your consciousness consciously. You probably don’t want to be as crazier than the craziest, but just crazier than the sanest. 
+
+####  Prioritize love
+
+Use love as a guiding principle in your life. Love the things you do and love the people you are with. Try not to buy the lies of the economic system that suggest that sacrificing social relationship to get individual goals will bring you happiness and fulfillment. Wellbeing’s key component is other people. Invest in your social relationships and dare to go further. Aim to develop meaningful and long-lasting bonds with people that understand and supports you. Isolation is dreadful and feeling lonely can be the beginning of a downward spiral where you may lose the motivation for doing anything else. Use your feelings as a guide for selecting the people and the things you want to do. As my advisor used to say after asking me a long list of to-do-items for next week’s meeting: "*There is only one life.*" Use it wisely.
+
+####  Do what you love and love what you do
+
+Related with the previous. Aim to spend as much time as possible doing what you love WITH the people you love, and you will have a lovely life. However, sometimes we cannot do only the things we love. There are tasks and chores that are not our favorites, and if you don’t have human or robotic slaves, you may have to spend some time queuing alone at the supermarket, hanging wet clothes, or dishing. In these cases, try to love what you are doing. Find the interesting aspects of the task, practice mindfulness, raise your awareness about the situation where you are in, play with your emotions and consciousness, or simply play some music or an interesting podcast. If you cannot do what you love, try to love what you do.
+
+-	Gratitude journal
+
+The most researched and scientifically sound practice of positive psychology. It will help you be more attentive with other people, and value the small details of life. It can strengthen your social relationship and keep you going during hard times. 
+
+-	Have a purpose
+
+It seems we have all our needs cover in our WEIRD  societies [@henrich2010weirdest]. However, I realized that once the basic physiological needs are cover, people lack other things. In my case, I reduced my living needs to air, water, food, people, love and purpose. I have already mentioned people and love in different parts of the text. For some of human, people can serve as a source of meaning and purpose, like having a kid, or a family to raise. However, some of us need to go a step beyond and feel that we are creating something bigger than ourselves, something that will survive our deaths. Thus, try to find an activity that you can feel proud of doing, try to create something that will make you be remembered as someone that improve the quality of the rest of fellow humans in the planet. You can research about the positive effects of living a meaningful life, or just experience it subjectively. Anyway, wasting one’s time and life, and entertaining oneself to death can oftentimes feel empty and shallow. Occupy your time with something that fills your soul.
+
+####  Be creative, artistic and culturally active
+
+If you like human beings, you probably like art. Consider art as an alternative way of expression and communication. Delve into the richness and variety of artistic expressions of our current times. Also, feel welcomed to contribute creating your own pieces of work. It is a worthwhile invest, since automation job replacement may leave most of us without an occupation in the upcoming years. However, even if artificial intelligences are better music composer, designers or painters than humans, Sapiens love creativity by itself, not just for the product, but also for the process of creation and self-discovery. Thus, I think artist and professions related with the arts and creativity are ones with a lot of future. Start early. 
+
+####  Remain curious
+
+Life is what happens between you are born and you die. In between, there is a whole infinite space of ignorance to fill. You will never know anything, but don’t be overwhelmed and think that it is not worthwhile to invest in learning. Seek for knowledge, seek for wisdom. Curiosity is the antidote for apathy and boredom. There is always something to discover, something to learn, something to perfectionate. Keep your curiosity alive, and you will keep reducing the amount of infinite ignorance along your existence. 
+
+####  Travel consciously
+
+Our hunter-gathered brains thrive by discovering new things. Travelling will broaden your perspectives about human beings, and the planet Earth. However, taking planes have an environmental cost and doing tourism in developing countries can be a form of exploitation. Nevertheless, the more you travel, the more you may develop empathy for people different than you, and the more you may feel moved by their lives and aim to change the inequality. Try to develop this type of global consciousness. Besides, if you acquired the habit of minimalism, travelling becomes a much easier and uncomplicated experience. In my case, I have a turban from Morocco that has multifunction (hat, blanket, towel, improvised bag, skirt…). If you go vegan or fruitarian, you may find difficulties and limitations in some countries. However, fruits in tropical countries taste amazing, maybe because the palatals, tongues and digestive system of our phylogenetic ancestors developed in these types of climates… Give it a thought. 
+
+####  Track your expenses
+
+Money may not be considered as very spiritual for many of us. However, it is a practical tool and it allow us to navigate the complexities of the social world we live in. Thus, a basic tip is to keep a Excel sheet where you can record your expenses. It will help you become more conscious of how you are using the money, correct some possible misusing, and detect potential addictions. Also, you will need some savings if you want to successfully escape the system.
+
+####  Don’t complain, become proactive.
+
+People complain often about the situation that they leave. Public transport is late, the weather is bad, things don’t work and so on. I try to reduce the number of complains I make daily, and try to find alternatives for the different situations and always look at the brighter side of life. I am not saying you take a naive and conformist approach to life, but give a thought to the things you can change and those that you cannot. I am not saying the punctuality of the trains is not annoying, I am saying that if it annoys you enough, you become proactive and start a campaign for change it. 
+
+An intelligent thing I read about our hyper-busy society was to start substituting the "*I don’t have time*"answer with the "*It is not a priority at this moment*". This way you may found yourself more relaxed about your life, and reduce complains about the amount of things you have to do. 
+
+Many people could say that I life in a ubiquitous complain about civilization and the system. They are not incorrect. However, my proactivity lays in developing and spreading my complains in a more thoughtful and elaborate format, and ultimately, suggesting some possible solutions and actions towards the betterment of the situation. 
+
+About the weather, don’t be like China and force changes on it, in exchange of droughts in the nearby of the city. And if the weather is too bad, try moving to another country. Maybe a tropical one, because, you know Sapiens developed in tropical and subtropical countries and all that.
+
+####  Move out from civilization - Go primitive, go to nature
+
+I don’t want to develop much in this point, since at this moment of my life is one of my favorite topics. Check Civilized to Death by Christopher Ryan. As a I wrote in a recent letter, most of us live a life deprived of healthy levels of:
+    -  nature,
+    -  fresh air,
+    -  clean water,
+    -  nourishing foods,
+    -  sleep,
+    -  love,
+    -  meaningful social connections,
+    -  social support,
+    -  sex,
+    -  fun,
+    -  free time,
+    -  creative opportunities,
+    -  loving education.
+
+On the other hand, we are likely having too much of:
+
+    -  food,
+    -  clothes,
+    -  commodities,
+    -  responsibilities,
+    -  sources of stress,
+    -  cleanliness,
+    -  mutated viruses,
+    -  material things,
+    -  irrelevant information.
+
+
+Reconsider the conditions of your life, reconsider living a sickening system, reconsider living more accordingly to your true human ape nature. My aim is to develop a community of people that I love with whom I can do the things I love to do. Living minimalistic, vegan and in constant connection with the nature. We’ll use civilization advances as little as possible and enjoy our living time as best as possible. As Zizek suggest, protesting may be a form of sustaining and collaborating on the perpetuating of the system. In a similar line, I detected that spiritual and positive psychologist practices (the ones I suggest you to practice in this guide) can be also become tools of the system to keep people civilized and functioning.
+
+It may seem risky, dangerous, and scary, but dare to change if that is what your heart is asking you to do. 
+
+If you have made it this far, I already consider you one of "*My people*". So, it is time for a bit of obvious and open self-promotion. If what I preach resonates with you, go ahead and support my journey. Subscribing to the YouTube channel, following me on social media, or visiting my website from time to time to check what I have published is already a big action from your part. I will be hugely thanked for it. 
+
+I don’t have email list yet, working on it. I have some merchandise that is not fully promoted. I also have a [Patreon website](https://www.patreon.com/carlitofluito), if you feel economically abundant and you want to help me continuing my journey. I haven’t published books with any editorial and my writings are free and accessible for the moment. Growing and improving step by step. Thanks for your patience. 
+
+Enjoy the research! :-)
+
+With love, 
+
+Carlos Alcala a.k.a. Carlito Fluito, non-Ph.D.
