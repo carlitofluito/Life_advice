@@ -1,18 +1,9 @@
-# Introduction. I am not your grandma but... {-}
+## Disclaimer: I am not your doctor. But, I could be your grandma. {-}
 
-In a similar way as David Cain, writer of [*Raptitude*](http://www.raptitude.com/), and its [post on unsolicited life advice](https://www.raptitude.com/2015/02/67-short-pieces-of-advice-you-didnt-ask-for/), here is a quick list of my habits and practices for a good life.^[If you want to know more, I have a blog where I post different types of things from time to time. You may find something useful there as well. [Carlito Fluito Website](www.carlitofluitoideas.com). One of my current life goals is to become a full-time artist, including writing, and posting regularly. Good vibes and support is always welcomed.] The pieces of advice evolve from more to less work related.^[This is the classical "*I am not a doctor*" message. Use your common sense, take all this practices as a personal exploration sort of game, and never put your well-being under extreme situations or circumstances. If you are like me, you probably don’t care and you’ll end up doing what you want, but at least, I will sleep better knowing that I wrote this small warning.]
+In Spain, the country I am from, grandmas are known for giving all sort of advices and remedies for virtually any type of problem. Thus, I prefer that you take me as your grandma, and avoid thinking that I am any type of health authority. This sections is just to add the classical "*I am not a doctor*" message. Use your common sense, take all this practices as a gamified personal exploration, and never put your well-being under extreme situations or circumstances^[However, if you are like me, you probably don’t care about this, and you’ll end up doing whatever you want. At least, I'll sleep better knowing that I wrote this sort of disclaimer.]. 
 
-# Be social
+In a similar way as David Cain, writer of [*Raptitude*](http://www.raptitude.com/), and its [post on unsolicited life advice](https://www.raptitude.com/2015/02/67-short-pieces-of-advice-you-didnt-ask-for/), here it is a quick list of my habits and practices for a good life.^[If you want to know more, I have a blog where I post different types of things from time to time. You may find something useful there as well. [Carlito Fluito Website](www.carlitofluitoideas.com). Check [*Dreams and morning reflections*](https://carlitofluito.github.io/dreams/) in the [Unfinished books](https://www.carlitofluitoideas.com/unfinished-books/)section to know my morning and evening routines.]. The habits and practices evolve from more to less work related. 
 
-I decided to place this one the first because one of the main reasons I am leaving this country and this job is the lack of love. Love manifested as positive and meaningful social relationships. Doing a Ph.D. is an already quite isolating job, and in a country like Belgium, or a city like Louvain-La-Neuve, you may find difficulties to find people you connect with. Social isolation and loneliness is an epidemic in individualistic societies. The institutionalized social services take care of those in risk, but the lack of an organic and natural social network can be hugely damaging for individuals and society as a whole. I don’t blame individuals; I think the whole problem is structural. Nevertheless, this is probably not the text to write about it. The thing is, you have a opportunities of socializing every day. Sometimes you will not feel like doing it, but try anyways. 
-
-## Make questions to other people
-
-I hope this guide contains some answers to your potential questions. However, feel free of getting to know about your colleagues. Don’t only ask job-related things, you can slightly move to more personal topics. As an ADHD Spaniard, some people find me too straight-forward or weird. Don’t worry much about what other people think, I probably said and did something more stupid than what you may say or do. 
-
-## Have coffees, lunch or dinner with your advisor and colleagues
-
-Try to make your breaks as social as possible. If there are people having lunch in the kitchen, pop up. If you have extra-coffee, or extra-tea, offer them a cup. Be proactive and suggest going for lunch or dinner outside the building, and if possible, outside the city. Don’t underestimate the power of social ties. 
 
 # Workflow
 
@@ -55,6 +46,18 @@ If you have a small laptop and you are using only your screen, you are making yo
 ## Get a mouse if you need to
 
 For an average research job, you may not need one. If you learn a few shortcuts and have a nice touchpad, it should be fine. However, if you feel that you need one, ask the IT responsible.
+
+# Be social
+
+I decided to place this one the first because one of the main reasons I am leaving this country and this job is the lack of love. Love manifested as positive and meaningful social relationships. Doing a Ph.D. is an already quite isolating job, and in a country like Belgium, or a city like Louvain-La-Neuve, you may find difficulties to find people you connect with. Social isolation and loneliness is an epidemic in individualistic societies. The institutionalized social services take care of those in risk, but the lack of an organic and natural social network can be hugely damaging for individuals and society as a whole. I don’t blame individuals; I think the whole problem is structural. Nevertheless, this is probably not the text to write about it. The thing is, you have a opportunities of socializing every day. Sometimes you will not feel like doing it, but try anyways. 
+
+## Make questions to other people
+
+I hope this guide contains some answers to your potential questions. However, feel free of getting to know about your colleagues. Don’t only ask job-related things, you can slightly move to more personal topics. As an ADHD Spaniard, some people find me too straight-forward or weird. Don’t worry much about what other people think, I probably said and did something more stupid than what you may say or do. 
+
+## Have coffees, lunch or dinner with your advisor and colleagues
+
+Try to make your breaks as social as possible. If there are people having lunch in the kitchen, pop up. If you have extra-coffee, or extra-tea, offer them a cup. Be proactive and suggest going for lunch or dinner outside the building, and if possible, outside the city. Don’t underestimate the power of social ties. 
 
 # Take breaks
 

@@ -8,21 +8,66 @@ bibliography: [bibliography.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: carlitofluito/life_advice
-description: "Some life advice"
+description: "Guide written by Carlito Fluito with advice to improve the quality of your life."
 ---
 
 # Preamble {-#preamble}
 
-This is an excerpt of a longer document: *A guide for Ph.D. students.* Thus, it was written specifically for that type of occupation. However, I am sure you can find useful  information that you may want to implement to your job, specially, if you are working on an office seated in front of a screen most of your day. 
+This is a short, straight to the point guide with life advice. I have collected some of my favourite practices, routines and exercises to keep me fully alive and functioning. I don't dwell much in any of the topics, since there are tons of wonderfull sources around the Internet. Therefore, the goal is to give you some ideas, and spark your mind. We are living in 2020, and this is an interactive world: I am a Sapiens in front of a screen and you are a Sapiens in front of a screen. Contact me if you have suggestions, improvements, or if you want resources about a specific habit. The guide is updated periodically with the new practices and habits that I find useful or worthwhile trying.
+
+### About the content {-}
+
+Because of how much I like to write, I oftenly spend too much time seated at my desk. Thus, if you have an occupation that requires you to stay seated for long periods of time, you will find a lot of value in the first part of the guide **Workflow**, where I give advice about desk jobs.
+
+If you workplace is shared with fellow sapiens, the second part **Be social** will give you some extra tips about how to reach and connect with the colleges around your work. 
+
+In **Take Breaks**, you can find my personal improved techniques for sustaining high levels of energy and focus throughout the day. 
+
+And finally, the best part **Boost your life**, which I have divided in: 
+
+* **Brain caring**
+
+* **Body caring**
+
+* **Dietary caring**
+
+* **Soul caring**
+
+In this last section you will find a lot of attitudes, mindsets, lifestyles, daily practices, and radical changes, that have completely transformed my life from an unfulfilled Ph.D. student to a flourishing full-time artist and spiritual psychologist with a non-Ph.D. qualification.
+
+```{r hanuman, fig.cap= "Breathe in deeply, zoom in, and surrender to the power of nature.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+knitr::include_graphics("images/hanuman.jpg")
+```
+
+<center>Enjoy the trip, fellow monkeys!!</center> 
 
 ### If you don't know me... {-#intro}
 
 If this is the first time you find out about me, I am Carlos Alcala a.k.a. Carlito Fluito. I like sharing my ideas and experiences through [writing](www.carlitofluitoideas.com), [performing](www.carlitofluito.com), sporadic [YouTube videos](https://www.youtube.com/channel/UC5Q8igPq_lE1JQNwbjjy7wA), and spontaneous [Instagram posts](https://www.instagram.com/carlitofluito/?hl=en).
 
-```{r intro, fig.cap= " *Munster (Germany). March, 2020*: It took me a while to take this picture with my [Fairphone](https://www.fairphone.com/en/) and an improvised tripod. I like the result, though.", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
+```{r intro, fig.cap= "Picture taking with a [Fairphone](https://www.fairphone.com/en/). If you are a modern sapiens that cares about this planet and the species on it, check it out. (Morality-based promotion. No personal earnings).", fig.margin = TRUE, out.width = "75%", fig.align='center', echo=FALSE}
 knitr::include_graphics("images/intro.jpg")
 ```
 
-The seriousness of my content varies from "*This guy is crazy!*" to "*It makes sense what he's saying...*". In any case,  As any other human being, I have needs to survive. If you find value in anything I do, and you want to keep me alive^[Or help me growing, let's not be so dramatic.], I will be extremelly grateful if you support me on [Patreon](https://www.patreon.com/carlitofluito)^[I am also a qualified psychologist, running online counseling and coaching sessions. Feel free to contact if you are interested in working together.], or drop me a "*Thanks for creating*" message. 
+Reactions to my content varies from &#129320; to &#128562;.
 
-Best, and enjoy reading!!
+If you find value in anything I do, and you want to help me grow, I will be extremely grateful for yoru support by sharing my content in your social network and leaving some love in my social media. It boost my motivation to receive support and comments from my audience. Don't hesitate it. Drop me a message. Go ahead!
+
+I also work as an online psychological counselor. My range is wide: from a supportive ear for those struggling with their self-destructive thoughts, behaviors, and emotions; to a motivational and structured push to step up your life, become the best version of yourself, and live aligned to your highest potential. Send me an email at [carlitofluito@gmail.com](mailto:carlitofluito@gmail.com) or contact me through social media. First 15 minutes session is completely free of charge and without any compromise. Once there, we would decide the best way to move forward.
+
+Lastly, to all my philanthropists out there, I have a profile on [Patreon](https://www.patreon.com/carlitofluito). There, you can donate any amount that you want. I infinitely thank anything from a one-time 1€ donation, to a monthly 10.000€ salary. You have my solid promise that I will invest it and spend it as morally as possible.
+
+With gratitude and love,
+
+Carlito Fluito
+
+
+### This is a bookdown book {-}
+
+[Bookdown](https://bookdown.org/) is the best tool that I have found so far to self-publish my written ideas. It is very intuitive and user friendly. In the menu above, from left to right, you can hide or show the index, search for a word, change the format of reading^[I am a big fan of dark themes.], or download the content in PDF and EPUB, so you can read it offline. At the right side of the screen, you will find that bird, that **f**, and that share icon that would make me so honour and happy. 
+
+The goal of every writer is to be read. Therefore, the most enjoyable is your experience, and the more people you share the content with, the more I would have reached my goal. 
+
+Thanks for helping me grow.
+
+
